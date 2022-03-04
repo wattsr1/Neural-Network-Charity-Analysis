@@ -44,7 +44,7 @@ Final Dataset
 
 2. The result of the initial analysis resulted in an accuracy of 72.4% which was below the target of 75% selected by the foundation as a target for the model.  This result in an improvement over the 53.2% success currently observed of projects funded by the foundation however short of the goal.
 
-<img src="Images/Accuracy_initial.png" width=400>
+<img src="Images/accuracy_initial.png" width=400>
 
 3. To increase the performance of the neural net model the following changes to the original configuration were conducted.
 
@@ -72,7 +72,7 @@ Final Dataset
 Based on the findings described above the two hidden nodes with 111 neurons and 74 neurons respectively produced the most accurate results.  As seen in the loss and accuracy data collected from this model the increases in accuracy are diminishing after 130 epochs.
 
 <img src="Images/loss_plot_trial6.png">
-<img src="Images/Accuracy_plot_trial6.png">
+<img src="Images/accuracy_plot_trial6.png">
 
 ---
 
